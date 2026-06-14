@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.imgur.com/CSjUtnf.png" width="250px"/></h1>
+<h1 align="center"><img src="https://i.imgur.com/vQU7E5p.png" width="250px"/></h1>
 
 The Linux kernel is the core of any Linux operating system. It manages hardware,
 system resources, and provides the fundamental services for all other software.
